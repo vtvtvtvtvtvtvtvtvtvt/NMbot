@@ -77,4 +77,4 @@ NM一体あたりの平均的な投稿数は、およそ 15投稿/24h を想定�
 [MIT license](https://github.com/vtvtvtvtvtvtvtvtvtvt/NMbot/blob/main/LICENSE)  
 
 FINAL FANTASY is a registered trademark of Square Enix Holdings Co., Ltd.  
-FINAL FANTASY XIV © 2010 - 2023 SQUARE ENIX CO., LTD. All Rights Reserved.
+FINAL FANTASY XIV © 2010 - 2024 SQUARE ENIX CO., LTD. All Rights Reserved.
