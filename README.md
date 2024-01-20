@@ -74,9 +74,9 @@ A: 以下の理由です。
 - 3アカウントの中でも通知の需要に格差があるので、安易にまとめられない  
 
 Q: 改造（改変）していいですか？  
-A: OKです。 [MITライセンス](https://github.com/vtvtvtvtvtvtvtvtvtvt/NMbot/blob/main/LICENSE) を採用しているので、
-   その中で許可されていることであればOKです。（イー〇ンが何かやらかさない限り滅多にエラーは吐かないですが、）
-   エラー・例外処理周りやそれらの通知・監視機構についてはほとんど作っていないので、そのあたりは改造したほうが扱いやすいかもしれません。
+A: OKです。 MITライセンスを採用しているので、その中で許可されていることであればOKです。
+  （イー〇ンが何かやらかさない限り滅多にエラーは吐かないですが、）エラー・例外処理周りや、
+   それらの通知・監視機構についてはほとんど作っていないので、そのあたりは改造したほうが扱いやすいかもしれません。
 
 Q: このソースコードを参考にして独自の通知アカウントを作ってもいいですか？  
 A: 大歓迎です。（参考になると嬉しいです。。）
@@ -85,7 +85,7 @@ A: 大歓迎です。（参考になると嬉しいです。。）
 [twitter](https://twitter.com/ErubisoP)
 
 ## Licence
-[MIT license](https://github.com/vtvtvtvtvtvtvtvtvtvt/NMbot/blob/main/LICENSE)  
+[MIT license](https://github.com/vtvtvtvtvtvtvtvtvtvt/NMbot/blob/master/LICENSE)  
 
 FINAL FANTASY is a registered trademark of Square Enix Holdings Co., Ltd.  
 FINAL FANTASY XIV © 2010 - 2024 SQUARE ENIX CO., LTD. All Rights Reserved.
