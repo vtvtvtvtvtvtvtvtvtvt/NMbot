@@ -19,7 +19,7 @@ npm i
 ```
 
 ## Usage
-- config/default.jsonとして、Twitter開発者ポータルから取得したアクセストークン類を以下の用に記述する。
+- config/default.jsonとして、Twitter開発者ポータルから取得したアクセストークン類を以下の様に記述する。
 ```
 {
 	"bot1" : {
@@ -78,11 +78,11 @@ A: OKです。 MITライセンスを採用しているので、その中で許�
   （イー〇ンが何かやらかさない限り滅多にエラーは吐かないですが、）エラー・例外処理周りや、
    それらの通知・監視機構についてはほとんど作っていないので、そのあたりは改造したほうが扱いやすいかもしれません。
 
-Q: このソースコードを参考にして独自の通知アカウントを作ってもいいですか？  
+Q: このソースコードを参考にして独自の通知アプリを作ってもいいですか？  
 A: 大歓迎です。（参考になると嬉しいです。。）
 ```
 ## Author
-[twitter](https://twitter.com/ErubisoP)
+[twitter](https://twitter.com/omegachamamatix)
 
 ## Licence
 [MIT license](https://github.com/vtvtvtvtvtvtvtvtvtvt/NMbot/blob/master/LICENSE)  
