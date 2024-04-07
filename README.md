@@ -81,8 +81,9 @@ A: OKです。 MITライセンスを採用しているので、その中で許�
 Q: このソースコードを参考にして独自の通知アプリを作ってもいいですか？  
 A: 大歓迎です。（参考になると嬉しいです。。）
 ```
+
 ## Author
-[twitter](https://twitter.com/omegachamamatix)
+vt
 
 ## Licence
 [MIT license](https://github.com/vtvtvtvtvtvtvtvtvtvt/NMbot/blob/master/LICENSE)  
