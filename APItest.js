@@ -27,5 +27,5 @@ async function postTweet(agent, str) {
 }
 
 for( var i=0; i<agents.length; i++ ) {
-    postTweet(agents[i], "【テスト】"+agents[i].itemName);
+    postTweet(agents[i], "【テスト】アカウント引き継ぎに伴うテスト投稿です。"+agents[i].itemName);
 }
